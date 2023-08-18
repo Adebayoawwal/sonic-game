@@ -1,0 +1,95 @@
+body{
+    background: url(images.jpg);
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    position: relative;
+    top: 0pc;
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+    background-color: blue;
+}
+.navbar button{
+    height: 34px;
+    width: 4pc;
+    font-size: 1pc;
+    color: white;
+    background-color: rgb(97, 97, 253);
+    border: 1px solid rgb(97, 97, 253);
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 13px;
+}
+.navbar button:hover{
+    height: 34px;
+    width: 4pc;
+    font-size: 1pc;
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 13px;
+}
+.page{
+ text-align: center;
+}
+.page h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.page p{
+     color: bisque;
+}
+.page button{
+    background-color: blue;
+    height: 33px;
+    width: 95px;
+    border: 1px solid blue;
+}
+.page button a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+.footer{
+    position: relative;
+    top: 23pc;
+    display: flex;
+    justify-content: space-between;
+    background: url(a1KFPJtTmT5VlCvANsTQF7IA5y.jpg);
+    color: azure;
+}
+.left{
+    font-size: 23px;
+}
+
+.right button:hover{
+    height: 34px;
+    width: 4pc;
+    font-size: 1pc;
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 13px;
+}
+.right button{
+    height: 34px;
+    width: 4pc;
+    font-size: 1pc;
+    color: white;
+    background-color: rgb(97, 97, 253);
+    border: 1px solid rgb(97, 97, 253);
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 13px;
+}
